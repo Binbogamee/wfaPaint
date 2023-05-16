@@ -16,4 +16,4 @@
  - пипетка;
  - удаление часть изображения.
 
-![изображение](https://github.com/Binbogamee/wfaPaint/assets/73061751/6cd80e0f-c617-40e3-9390-94f6e2076f73)
+![paint2](https://github.com/Binbogamee/wfaPaint/assets/73061751/d4d6e019-deef-4749-9663-f780f0356007)
